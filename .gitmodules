@@ -4,3 +4,6 @@
 [submodule "HoldOnFor20Seconds"]
 	path = HoldOnFor20Seconds
 	url = git@github.com:soasme/HoldOnFor20Seconds.git
+[submodule "Galaga"]
+	path = Galaga
+	url = git@github.com:soasme/Galaga.git
