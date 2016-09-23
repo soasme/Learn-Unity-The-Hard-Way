@@ -1,3 +1,6 @@
 [submodule "Pong"]
 	path = Pong
 	url = git@github.com:soasme/Pong.git
+[submodule "HoldOnFor20Seconds"]
+	path = HoldOnFor20Seconds
+	url = git@github.com:soasme/HoldOnFor20Seconds.git
